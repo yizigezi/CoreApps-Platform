@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## PyToolBox---Make Free 为自由
 
-You can use the [editor on GitHub](https://github.com/yizigezi/page-for-pytoolbox/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+这是一个工具箱.不过,它是用Python编写的.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+它的上手很简单,无需过度学习.
 
-### Markdown
+它能扩展,编写软件包也如此简单.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+它是一个程序入口,但基础功能,它仍然在行,却不会更多——交给软件包吧——它能做更多事情.
 
-```markdown
-Syntax highlighted code block
+## 官方仓库
 
-# Header 1
-## Header 2
-### Header 3
+代码:https://dev.azure.com/1207826398/pytoolbox/_git/dev-ptb
+Wiki、说明:https://gitee.com/ptstudio/py-tool-box
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yizigezi/page-for-pytoolbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+By PieTech
